@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/Practica_pandas.py" afterDir="false" />
+    <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Cambio_Prueba">
+      <change afterPath="$PROJECT_DIR$/selenium_facebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JamieMota.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JamieMota.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +22,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="59c6e4cb-ca35-42ea-8e17-3ccebdba5705" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,8 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/AlumnoFCA/PycharmProjects/JamieMota",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -77,7 +78,28 @@
       <option name="project" value="LOCAL" />
       <updated>1692990348334</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1692991045806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991045806</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1692991179734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991179734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cambio_Prueba">
+      <created>1692991537721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991537721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Cambio_Prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio_Prueba" />
   </component>
 </project>
