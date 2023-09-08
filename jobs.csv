@@ -1,0 +1,101 @@
+,Puesto,Empresa,Ciudad,Fecha
+0,Senior Python Developer,"Payne, Roberts and Davis",<built-in method strip of str object at 0x00000109C8E5B230>,2021-04-08
+1,Energy engineer,Vasquez-Davidson,<built-in method strip of str object at 0x00000109C7C6F630>,2021-04-08
+2,Legal executive,"Jackson, Chambers and Levy",<built-in method strip of str object at 0x00000109C7C6F750>,2021-04-08
+3,Fitness centre manager,Savage-Bradley,<built-in method strip of str object at 0x00000109C7C6F7B0>,2021-04-08
+4,Product manager,Ramirez Inc,<built-in method strip of str object at 0x00000109C7C6F810>,2021-04-08
+5,Medical technical officer,Rogers-Yates,<built-in method strip of str object at 0x00000109C8E5B550>,2021-04-08
+6,Physiological scientist,Kramer-Klein,<built-in method strip of str object at 0x00000109C7C6F870>,2021-04-08
+7,Textile designer,Meyers-Johnson,<built-in method strip of str object at 0x00000109C7C6F8D0>,2021-04-08
+8,Television floor manager,Hughes-Williams,<built-in method strip of str object at 0x00000109C8E5B780>,2021-04-08
+9,Waste management officer,"Jones, Williams and Villa",<built-in method strip of str object at 0x00000109C8E5B8C0>,2021-04-08
+10,Software Engineer (Python),Garcia PLC,<built-in method strip of str object at 0x00000109C8E5B9B0>,2021-04-08
+11,Interpreter,Gregory and Sons,<built-in method strip of str object at 0x00000109C8E5BAA0>,2021-04-08
+12,Architect,"Clark, Garcia and Sosa",<built-in method strip of str object at 0x00000109C7C6F930>,2021-04-08
+13,Meteorologist,Bush PLC,<built-in method strip of str object at 0x00000109C8E5BBE0>,2021-04-08
+14,Audiological scientist,Salazar-Meyers,<built-in method strip of str object at 0x00000109C7C6F990>,2021-04-08
+15,English as a second language teacher,"Parker, Murphy and Brooks",<built-in method strip of str object at 0x00000109C7C6FA50>,2021-04-08
+16,Surgeon,Cruz-Brown,<built-in method strip of str object at 0x00000109C7C6FAB0>,2021-04-08
+17,Equities trader,Macdonald-Ferguson,<built-in method strip of str object at 0x00000109C8E5BE60>,2021-04-08
+18,Newspaper journalist,"Williams, Peterson and Rojas",<built-in method strip of str object at 0x00000109C8E5BFA0>,2021-04-08
+19,Materials engineer,Smith and Sons,<built-in method strip of str object at 0x00000109C7C6FB10>,2021-04-08
+20,Python Programmer (Entry-Level),"Moss, Duncan and Allen",<built-in method strip of str object at 0x00000109C8F501C0>,2021-04-08
+21,Product/process development scientist,Gomez-Carroll,<built-in method strip of str object at 0x00000109C8F50260>,2021-04-08
+22,"Scientist, research (maths)","Manning, Welch and Herring",<built-in method strip of str object at 0x00000109C8F503A0>,2021-04-08
+23,Ecologist,"Lee, Gutierrez and Brown",<built-in method strip of str object at 0x00000109C8F50490>,2021-04-08
+24,Materials engineer,"Davis, Serrano and Cook",<built-in method strip of str object at 0x00000109C7C6FBD0>,2021-04-08
+25,Historic buildings inspector/conservation officer,Smith LLC,<built-in method strip of str object at 0x00000109C7C6FC30>,2021-04-08
+26,Data scientist,Thomas Group,<built-in method strip of str object at 0x00000109C7C6FC90>,2021-04-08
+27,Psychiatrist,Silva-King,<built-in method strip of str object at 0x00000109C8F506C0>,2021-04-08
+28,Structural engineer,Pierce-Long,<built-in method strip of str object at 0x00000109C8F507B0>,2021-04-08
+29,Immigration officer,Walker-Simpson,<built-in method strip of str object at 0x00000109C7C6FCF0>,2021-04-08
+30,Python Programmer (Entry-Level),Cooper and Sons,<built-in method strip of str object at 0x00000109C8F50940>,2021-04-08
+31,Neurosurgeon,"Donovan, Gonzalez and Figueroa",<built-in method strip of str object at 0x00000109C8F50A30>,2021-04-08
+32,Broadcast engineer,"Morgan, Butler and Bennett",<built-in method strip of str object at 0x00000109C8F50B70>,2021-04-08
+33,Make,Snyder-Lee,<built-in method strip of str object at 0x00000109C8F50C10>,2021-04-08
+34,"Nurse, adult",Harris PLC,<built-in method strip of str object at 0x00000109C8F50CB0>,2021-04-08
+35,Air broker,Washington PLC,<built-in method strip of str object at 0x00000109C8F50D50>,2021-04-08
+36,"Editor, film/video","Brown, Price and Campbell",<built-in method strip of str object at 0x00000109C7C6FD50>,2021-04-08
+37,"Production assistant, radio",Mcgee PLC,<built-in method strip of str object at 0x00000109C8F50F30>,2021-04-08
+38,"Engineer, communications",Dixon Inc,<built-in method strip of str object at 0x00000109C8F51020>,2021-04-08
+39,Sales executive,"Thompson, Sheppard and Ward",<built-in method strip of str object at 0x00000109C8F51110>,2021-04-08
+40,Software Developer (Python),Adams-Brewer,<built-in method strip of str object at 0x00000109C8F51200>,2021-04-08
+41,Futures trader,Schneider-Brady,<built-in method strip of str object at 0x00000109C8F512A0>,2021-04-08
+42,Tour manager,Gonzales-Frank,<built-in method strip of str object at 0x00000109C8F51340>,2021-04-08
+43,Cytogeneticist,Smith-Wong,<built-in method strip of str object at 0x00000109C7C6FDB0>,2021-04-08
+44,"Designer, multimedia",Pierce-Herrera,<built-in method strip of str object at 0x00000109C7C6FE10>,2021-04-08
+45,Trade union research officer,"Aguilar, Rivera and Quinn",<built-in method strip of str object at 0x00000109C7C6FE70>,2021-04-08
+46,"Chemist, analytical","Lowe, Barnes and Thomas",<built-in method strip of str object at 0x00000109C7C6FED0>,2021-04-08
+47,"Programmer, multimedia","Lewis, Gonzalez and Vasquez",<built-in method strip of str object at 0x00000109C8F51750>,2021-04-08
+48,"Engineer, broadcasting (operations)",Taylor PLC,<built-in method strip of str object at 0x00000109C8F517F0>,2021-04-08
+49,"Teacher, primary school","Oliver, Jones and Ramirez",<built-in method strip of str object at 0x00000109C8F51930>,2021-04-08
+50,Python Developer,Rivera and Sons,<built-in method strip of str object at 0x00000109C7C6FF90>,2021-04-08
+51,Manufacturing systems engineer,Garcia PLC,<built-in method strip of str object at 0x00000109C8F51AC0>,2021-04-08
+52,"Producer, television/film/video","Johnson, Wells and Kramer",<built-in method strip of str object at 0x00000109C8F51C00>,2021-04-08
+53,"Scientist, forensic",Gonzalez LLC,<built-in method strip of str object at 0x00000109C8F51CF0>,2021-04-08
+54,Bonds trader,"Morgan, White and Macdonald",<built-in method strip of str object at 0x00000109C8F58030>,2021-04-08
+55,Editorial assistant,Robinson-Fitzpatrick,<built-in method strip of str object at 0x00000109C8F51ED0>,2021-04-08
+56,Photographer,"Waters, Wilson and Hoover",<built-in method strip of str object at 0x00000109C8F58090>,2021-04-08
+57,Retail banker,Hill LLC,<built-in method strip of str object at 0x00000109C8F52010>,2021-04-08
+58,Jewellery designer,Li-Gregory,<built-in method strip of str object at 0x00000109C8F52100>,2021-04-08
+59,Ophthalmologist,"Fisher, Ryan and Coleman",<built-in method strip of str object at 0x00000109C8F521F0>,2021-04-08
+60,"Back-End Web Developer (Python, Django)",Stewart-Alexander,<built-in method strip of str object at 0x00000109C8F58150>,2021-04-08
+61,Licensed conveyancer,Abbott and Sons,<built-in method strip of str object at 0x00000109C8F581B0>,2021-04-08
+62,Futures trader,"Bryant, Santana and Davenport",<built-in method strip of str object at 0x00000109C8F52420>,2021-04-08
+63,Counselling psychologist,Smith PLC,<built-in method strip of str object at 0x00000109C8F58210>,2021-04-08
+64,Insurance underwriter,Patterson-Singh,<built-in method strip of str object at 0x00000109C8F525B0>,2021-04-08
+65,"Engineer, automotive",Martinez-Berry,<built-in method strip of str object at 0x00000109C8F526A0>,2021-04-08
+66,"Producer, radio","May, Taylor and Fisher",<built-in method strip of str object at 0x00000109C8F52790>,2021-04-08
+67,Dispensing optician,"Bailey, Owen and Thompson",<built-in method strip of str object at 0x00000109C8F528D0>,2021-04-08
+68,"Designer, fashion/clothing",Vasquez Ltd,<built-in method strip of str object at 0x00000109C8F529C0>,2021-04-08
+69,Chartered loss adjuster,Leblanc LLC,<built-in method strip of str object at 0x00000109C8F58270>,2021-04-08
+70,"Back-End Web Developer (Python, Django)","Jackson, Ali and Mckee",<built-in method strip of str object at 0x00000109C8F58330>,2021-04-08
+71,Forest/woodland manager,"Blankenship, Knight and Powell",<built-in method strip of str object at 0x00000109C8F52C40>,2021-04-08
+72,Clinical cytogeneticist,"Patton, Haynes and Jones",<built-in method strip of str object at 0x00000109C8F52D80>,2021-04-08
+73,Print production planner,Wood Inc,<built-in method strip of str object at 0x00000109C8F52E70>,2021-04-08
+74,Systems developer,Collins Group,<built-in method strip of str object at 0x00000109C8F58390>,2021-04-08
+75,Graphic designer,Flores-Nelson,<built-in method strip of str object at 0x00000109C8F53000>,2021-04-08
+76,Writer,"Mitchell, Jones and Olson",<built-in method strip of str object at 0x00000109C8F530F0>,2021-04-08
+77,Field seismologist,Howard Group,<built-in method strip of str object at 0x00000109C8F531E0>,2021-04-08
+78,Chief Strategy Officer,Kramer-Edwards,<built-in method strip of str object at 0x00000109C8F532D0>,2021-04-08
+79,Air cabin crew,Berry-Houston,<built-in method strip of str object at 0x00000109C8F583F0>,2021-04-08
+80,Python Programmer (Entry-Level),Mathews Inc,<built-in method strip of str object at 0x00000109C8F58450>,2021-04-08
+81,Warden/ranger,Riley-Johnson,<built-in method strip of str object at 0x00000109C8F584B0>,2021-04-08
+82,Sports therapist,Spencer and Sons,<built-in method strip of str object at 0x00000109C8F53550>,2021-04-08
+83,Arts development officer,Camacho-Sanchez,<built-in method strip of str object at 0x00000109C8F53640>,2021-04-08
+84,Printmaker,Oliver and Sons,<built-in method strip of str object at 0x00000109C8F536E0>,2021-04-08
+85,Health and safety adviser,Eaton PLC,<built-in method strip of str object at 0x00000109C8F58510>,2021-04-08
+86,Manufacturing systems engineer,Stanley-Frederick,<built-in method strip of str object at 0x00000109C8F538C0>,2021-04-08
+87,"Programmer, applications",Bradley LLC,<built-in method strip of str object at 0x00000109C8F539B0>,2021-04-08
+88,Medical physicist,"Parker, Goodwin and Zavala",<built-in method strip of str object at 0x00000109C8F53AF0>,2021-04-08
+89,Media planner,Kim-Miles,<built-in method strip of str object at 0x00000109C8F58570>,2021-04-08
+90,Software Developer (Python),Moreno-Rodriguez,<built-in method strip of str object at 0x00000109C8F585D0>,2021-04-08
+91,"Surveyor, land/geomatics",Brown-Ortiz,<built-in method strip of str object at 0x00000109C8F53D20>,2021-04-08
+92,Legal executive,Hartman PLC,<built-in method strip of str object at 0x00000109C8F58630>,2021-04-08
+93,"Librarian, academic",Brooks Inc,<built-in method strip of str object at 0x00000109C8F53E60>,2021-04-08
+94,Barrister,Washington-Castillo,<built-in method strip of str object at 0x00000109C8F53F50>,2021-04-08
+95,Museum/gallery exhibitions officer,"Nguyen, Yoder and Petty",<built-in method strip of str object at 0x00000109C8F586F0>,2021-04-08
+96,"Radiographer, diagnostic",Holder LLC,<built-in method strip of str object at 0x00000109C8F5C120>,2021-04-08
+97,Database administrator,Yates-Ferguson,<built-in method strip of str object at 0x00000109C8F5C210>,2021-04-08
+98,Furniture designer,Ortega-Lawrence,<built-in method strip of str object at 0x00000109C8F58750>,2021-04-08
+99,Ship broker,"Fuentes, Walls and Castro",<built-in method strip of str object at 0x00000109C8F587B0>,2021-04-08
