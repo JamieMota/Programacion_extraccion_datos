@@ -36,24 +36,24 @@ datos = {
 }
 
 for gender in genderOptions[1:]:
-gender.click()
+    gender.click()
 for year in year_list:
-year.click()
-time.sleep(1)
+    year.click()
+    time.sleep(1)
 
 soup = BeautifulSoup(navegador.page_source, "html.parser")
 tabla = soup.find("table", attrs={"class":"table table-striped"})
 list_rows = tabla.find_all("tr")
 
 for row in list_rows[1:]:
-datos["gender"].append(gender.text)
-datos["year"].append(year.text)
-values = row.find_all("td")
-datos["country"].append(values[0].text)
-datos["gold"].append(values[2].text)
-datos["silver"].append(values[3].text)
-datos["bronze"].append(values[4].text)
-datos["total"].append(values[5].text)
+    datos["gender"].append(gender.text)
+    datos["year"].append(year.text)
+    values = row.find_all("td")
+    datos["country"].append(values[0].text)
+    datos["gold"].append(values[2].text)
+    datos["silver"].append(values[3].text)
+    datos["bronze"].append(values[4].text)
+    datos["total"].append(values[5].text)
 
 
 #print(datos)
