@@ -38,6 +38,7 @@ if response.status_code==200:
 else:
     print(f"ERROR {response.status_code} AL MOMENTO DE CARGAR LA PAGINA")
 
-
+jobs = pd.read_csv("datasets/jobs.csv",index_col=0)
+print(jobs)
 
 
