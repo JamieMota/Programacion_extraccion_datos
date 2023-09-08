@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Fake jobs">
       <change beforePath="$PROJECT_DIR$/Fake_jobs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fake_jobs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/jobs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/jobs.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694201800352</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Fake jobs">
+      <created>1694202056103</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694202056103</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fake jobs">
+      <created>1694202075448</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694202075448</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

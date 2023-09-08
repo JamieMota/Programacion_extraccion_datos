@@ -39,6 +39,8 @@ else:
     print(f"ERROR {response.status_code} AL MOMENTO DE CARGAR LA PAGINA")
 
 jobs = pd.read_csv("datasets/jobs.csv",index_col=0)
-print(jobs)
+print(jobs.sample(10))
+print(jobs.describe())
+print(jobs.info)
 
 
