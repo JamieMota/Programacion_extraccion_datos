@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Fake jobs">
-      <change beforePath="$PROJECT_DIR$/Fake_jobs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fake_jobs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/jobs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/jobs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repaso examen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olimpiadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/olimpiadas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/AlumnoFCA/PycharmProjects/JamieMota",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AlumnoFCA/PycharmProjects/JamieMota&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="JamieMota" />
@@ -181,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694202075448</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fake jobs">
+      <created>1694202848247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1694202848248</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
