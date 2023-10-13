@@ -24,6 +24,10 @@ print(genders)
 
 df_genders = pd.DataFrame(genders,columns=["nombre"])
 print(df_genders)
-""""
-df_genders.to_sql("genero",conexion, if_exists= "append", index=False)
-"""
+#df_genders.to_sql("genero",conexion, if_exists= "append", index=False)
+
+query = "Select nombre from genero where nombre = %s"
+parametros= ("female",)
+resultados=pd.read_sql(query,conexion, params=parametros)
+print(resultados)
+

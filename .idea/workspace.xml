@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Fake jobs">
-      <change afterPath="$PROJECT_DIR$/Repaso examen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/preprocesamiento_datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/preprocesamiento_de_Datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/surveys.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/olimpiadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/olimpiadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_mysql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AlumnoFCA\PycharmProjects\JamieMota\datasets" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="JamieMota" />
@@ -192,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694202848248</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Fake jobs">
+      <created>1696361469653</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696361469653</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
