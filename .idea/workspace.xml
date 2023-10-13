@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Fake jobs">
-      <change afterPath="$PROJECT_DIR$/datasets/preprocesamiento_datos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/preprocesamiento_de_Datos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/surveys.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/normalizacion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696361469653</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fake jobs">
+      <created>1697221550296</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697221550296</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
