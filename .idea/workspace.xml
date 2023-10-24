@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Fake jobs">
-      <change afterPath="$PROJECT_DIR$/datasets/normalizacion.py" afterDir="false" />
+    <list default="true" id="f2270d24-7445-422a-a0e1-73143e350e89" name="Changes" comment="Normalizacion">
+      <change afterPath="$PROJECT_DIR$/datasets/U_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/cadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/transformacion_datos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697221550296</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Normalizacion">
+      <created>1697223772950</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697223772950</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +234,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Cambio_Prueba" />
     <MESSAGE value="Fake jobs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fake jobs" />
+    <MESSAGE value="Normalizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Normalizacion" />
   </component>
 </project>
