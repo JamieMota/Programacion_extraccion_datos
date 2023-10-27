@@ -9,7 +9,6 @@ alumnos = {
 }
 
 df_alumnos = pd.DataFrame(alumnos)
-
 carrera = {
     "nombre":["IN","C","NI","A","I"],
     "alumnos":[190,1000,300,2000,60],
